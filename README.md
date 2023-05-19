@@ -28,7 +28,7 @@ For more information on the API Layer Exchange Rate DATA API, visit their [websi
 
 3. Install the required dependencies:
 
-```pip install -r requirements.txt```
+- requests and tkinter
 
 ## Usage
 
