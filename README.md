@@ -20,11 +20,11 @@ For more information on the API Layer Exchange Rate DATA API, visit their [websi
 
 1. Clone the repository:
 
-```git clone https://github.com/ElRapt/currency-converter.git```
+- ```git clone https://github.com/ElRapt/currency-converter.git```
 
 2. Change into the project directory:
 
-```cd currency-converter```
+- ```cd currency-converter```
 
 3. Install the required dependencies:
 
@@ -40,7 +40,7 @@ For more information on the API Layer Exchange Rate DATA API, visit their [websi
 
 4. Run the application:
 
-```python currencyconverter.py```
+- ```python currencyconverter.py```
 
 5. Select the start currency, end currency, and enter the amount to convert.
 
