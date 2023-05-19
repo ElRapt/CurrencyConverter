@@ -1,6 +1,6 @@
 # Currency Converter
 
-A simple currency converter application that utilizes the API Layer Exchange Rate DATA API.
+A simple currency converter application that utilizes the API Layer Exchange Rate DATA API made as a fun personal project.
 
 Built with Python and Tkinter.
 
